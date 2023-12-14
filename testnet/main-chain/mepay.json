@@ -1,0 +1,12 @@
+{
+    "_comment": "Testnet - Main chain - Me Pay",
+    "node": "35.189.180.80:3011",
+
+    "card": "0x2c1133aeeC33B61dd179B70c4a3b9caf903D679d",
+    "core": "0x8d406a17962839E9C2a6e0cd2169A6f641c51f17",
+    "usdt": "0x0000000000000000000000000000000000000002",
+    "router": "0x7cAbf61E7aE72438eB5e0E5e4Fcd2F20181d579d",
+    "factory": "0xD979E214F489051549c29c967186dfBE3f4F215F",
+    "wme": "0x21cf5821143A8D2013Ed9c40b9d07617172ECD2C",
+    "lp_token": "0x36ae1444d2f38f537de511291c614b37af1d3d17"
+}
