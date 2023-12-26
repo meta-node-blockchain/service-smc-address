@@ -1,6 +1,7 @@
 {
     "_comment": "Testnet - State Channel - Mining - MTI - MeLab",
     "state-channel": "35.189.180.80:6071",
+    "state_address": "0x9eeB553fC6d5D6f9b35a2728121317DCc2eA6C38",
 
    "usdt": "0xFCF0C16d8aF02D4BbDeceD32e68AF2FE6565F46D",
    "master_pool": "0x08D3467878Cd4baE0C79e1EeFD38719122a6fedf",
