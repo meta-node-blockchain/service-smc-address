@@ -2,9 +2,11 @@
     "_comment": "Testnet - State Channel - Mining - MTI - MeLab",
     "state-channel": "35.189.180.80:6071",
     "state_address": "0x9eeB553fC6d5D6f9b35a2728121317DCc2eA6C38",
-    
+    "usdt_main": "0x0000000000000000000000000000000000000002",
+    "mainnet_controller": "0x8029cBc511405f05CB395f2a38447Ae18CF6c33E",
+    "mtd_token_state": "0x6370a3BdF77ae66d80E00484BBfB6ADad8ddcb34",
     "main_address": "0x0000000000000000000000000000000000000001",
-    "usdt": "0xFCF0C16d8aF02D4BbDeceD32e68AF2FE6565F46D",
+    "usdt_state": "0xFCF0C16d8aF02D4BbDeceD32e68AF2FE6565F46D",
     "master_pool": "0x08D3467878Cd4baE0C79e1EeFD38719122a6fedf",
     "ref": "0x91A17565D0F266b2EedB59322BED792D4DdcEd4C",
     "proxy_ref": "0xD4E630a410b681C016a828fBe93f8EE302EF62C8",
