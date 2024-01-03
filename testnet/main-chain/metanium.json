@@ -1,0 +1,10 @@
+{
+    "_comment": "Testnet - Main chain - Metanium",
+    "node": "35.189.180.80:3011",
+
+    "usdt": "0x0000000000000000000000000000000000000002",
+    "router": "0x5908EA18960ddCA3E536659a9B937F37659356b5",
+    "factory": "0xfD12a92880d156C976e6366A1f5AC410F6fAB178",
+    "wme": "0x1Fbf2882eeb1D5806322B0b9ECDF13f493F26C4E",
+    "lp_token": "0x7fa24119cdbdafd0da7ca008c8e952b06fbdc3ce"
+}
