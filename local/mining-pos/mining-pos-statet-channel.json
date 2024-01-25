@@ -1,0 +1,10 @@
+{
+    "_comment": "LocalChain - State Channel - Mining POS",
+    "state-channel": "192.168.100.111:7003",
+    "state_address": "",
+    "usdt_state": "0x10e3f2f85CE62fB15A112838fD6DAe48a7D6d701",
+    "mining-pos": "0x08D3467878Cd4baE0C79e1EeFD38719122a6fedf",
+    "code-pool": "0x7bcb83961185F2eAdDca7B220Fd7F40e73103fC0",
+    "history": "0x8f1439682A99175d5eA3D98eeF9DaC357BA6A64e",
+    "code-storage": "0x65c09FeA4F87af6BED3A6dFc2DE8F75FC3292697",
+}
