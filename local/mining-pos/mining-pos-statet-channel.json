@@ -7,4 +7,7 @@
     "code-pool": "0x7bcb83961185F2eAdDca7B220Fd7F40e73103fC0",
     "history": "0x8f1439682A99175d5eA3D98eeF9DaC357BA6A64e",
     "code-storage": "0x65c09FeA4F87af6BED3A6dFc2DE8F75FC3292697",
+    "service-ip": "192.168.100.111",
+    "service-api-port": "8082",
+    "service-api-socket": "8000"
 }
