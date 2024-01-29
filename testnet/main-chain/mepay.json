@@ -1,6 +1,6 @@
 {
     "_comment": "Testnet - Main chain - Me Pay",
-    "node": "35.189.180.80:3011",
+    "node": "35.229.243.187:3011",
 
     "card": "0x2c1133aeeC33B61dd179B70c4a3b9caf903D679d",
     "core": "0x8d406a17962839E9C2a6e0cd2169A6f641c51f17",
