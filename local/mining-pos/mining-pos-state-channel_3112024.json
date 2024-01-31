@@ -1,0 +1,14 @@
+{
+    "_comment": "LocalChain - State Channel - Mining POS - Create Code only for Devs (Not for production)",
+    "state-channel": "192.168.100.111:3071",
+    "state_address": "34f2a4eef2b3a73ccb50121777a274f14945cfee",
+    "usdt_state": "0xC662770523c4cC445762d9bcD32d967dD020eb39",
+    "mining-pos": "0x8eA6598Db5E215cDE53Ad4a476528A31d73C40f3",
+    "code-pool": "0xCD1a10bFb624B0DD2F31bEcAcBe13CA6BBA1EC0C",
+    "history": "0xeF5e59744932ec6A81C6Efc3A3F7851487A20aAA",
+    "code-storage": "0x0BF77176F528f5eE8373B01BaAfF2251970B0651",
+    "create-code": "0x39A0b2A397Bc22a17FcA556339dD0919c95dDD4B",
+    "service-ip": "192.168.100.111",
+    "service-api-port": "8082",
+    "service-api-socket": "8000"
+}
