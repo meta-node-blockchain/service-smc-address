@@ -1,6 +1,6 @@
 {
     "IP": "35.236.137.110",
     "PORT": "8050",
-    "DOMAIN": "",
-    "PATH": "/api/sign"
+    "DOMAIN": "ot-device-2.vipn.net",
+    "PATH": "/sign/"
 }
