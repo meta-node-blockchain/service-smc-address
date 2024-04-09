@@ -1,12 +1,12 @@
 {
     "_comment": "Testnet - Main chain - Me Pay",
-    "node": "35.229.243.187:3011",
+    "node": "35.229.243.187:7002",
 
-    "card": "0x2c1133aeeC33B61dd179B70c4a3b9caf903D679d",
-    "core": "0x8d406a17962839E9C2a6e0cd2169A6f641c51f17",
+    "card": "0xd427138e534B788Ce10f7Fd0175C48B0e7f25F8A",
+    "core": "0x1F7e4829D6a558483Ecb823eF27d49BF748638b3",
     "usdt": "0x0000000000000000000000000000000000000002",
-    "router": "0xafead5029301de9d05e19639ab06595c402f44c5",
-    "factory": "0xa4fd58d55093053a0a0d1d94991cc75ddd231492",
-    "wme": "0xa17f31700b86ea484af11d427b4579becf704df9",
-    "lp_token": "0x3c6274f17d57024403153c7695136b2ad9379b88"
+    "router": "0x26B0A1eFaFF6645026af90f22781D1efD8bAA6a5",
+    "factory": "0x88bFd56EDcdd95e8d26eBfE53EF7841Cdf5cD6FE",
+    "wme": "0x720eb9eD8435Af79cEDE2390527dc6D29625aE9a",
+    "lp_token": "0x2D1BD478324826c752e9B3F8960975312FEd38eF"
 }
