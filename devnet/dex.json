@@ -1,0 +1,9 @@
+{
+    "_comment": "Devnet - Main chain - Dex",
+    "node": "35.185.166.168:7002",
+
+    "usdt": "0x0000000000000000000000000000000000000002",
+    "router": "0xBA7030249AFc1B2F675d029C8B9867c30AdB98E3",
+    "factory": "0x8caDAa726Cb030E80912035EDD3B01d78C25745a",
+    "wme": "0x2b4a0DE3197616e253eF2440040628E58683a0e3",
+}
