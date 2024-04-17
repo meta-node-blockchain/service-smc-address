@@ -1,6 +1,6 @@
 {
     "_comment": "Devnet - Main chain - Me Pay - Added Pool",
-    "node": "35.185.166.168:7002",
+    "node": "34.93.225.224:7002",
 
     "card": "0xA58FCEc360f76b02e398BdEf6f1bA41CdFC26BE1",
     "usdt": "0x0000000000000000000000000000000000000002",
