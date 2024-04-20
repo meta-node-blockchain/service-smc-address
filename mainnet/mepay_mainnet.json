@@ -1,0 +1,11 @@
+{
+    "_comment": "Mainnet - Me Pay",
+    "node": "34.143.154.77:7002",
+    "card": "",
+    "core": "",
+    "usdt": "0x0000000000000000000000000000000000000002",
+    "router": "0x3D9267aC960b5076ee9A5feAe73Df5620F16EB07",
+    "factory": "0x764169F2f58a3d18e1e289D4079c780374260A2D",
+    "wme": "0x89E199F50E75749FC316bFC08B46e190dd26901D",
+    "lp_token": ""
+}
